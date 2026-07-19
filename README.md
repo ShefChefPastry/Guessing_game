@@ -1,7 +1,7 @@
 # 🐍 Terminal Number Guessing Game
 
 <p align="center">
-  <img src="https://boot.dev" alt="Boot.dev Profile Badge">
+  <img src="https://api.boot.dev/v1/users/public/02c99808-216a-4b68-b455-bc3140d2303b/thumbnail" >
 </p>
 
 A dynamic, interactive command-line application built in Python that challenges players to guess a randomly generated number within a range determined by chosen difficulty tiers. 
