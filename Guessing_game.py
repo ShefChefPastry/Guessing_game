@@ -97,7 +97,7 @@ def play_game():
     if attempts_made == 1:  
         print("It took you 1 attempt.") 
     else: 
-        print("You used all", attempts_made, "attempts.") 
+        print("It took you", attempts_made, "attempts.") 
 
     return attempts_made, won
 
@@ -118,8 +118,8 @@ while True:
         if best_score is None:
             best_score = attempts
 
-    elif attempts < best_score:
-        best_score = attempts
+        elif attempts < best_score:
+            best_score = attempts
 
     print("========== Statistics ==========")
     print("Games Played:", games_played)
