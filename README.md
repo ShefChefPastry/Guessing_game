@@ -2,6 +2,8 @@
 
 A dynamic, interactive command-line application built in Python that challenges players to guess a randomly generated number within a range determined by chosen difficulty tiers.
 
+*Built as part of my backend learning path on [Boot.dev](https://www.boot.dev). Check out my full set of certificates on my [GitHub Profile](https://github.com/ShefChefPastry).*
+
 This project was built to practice Python fundamentals including functions, loops, conditionals, input validation, random number generation, and tracking program state.
 
 ---
@@ -70,7 +72,6 @@ Players can continue playing multiple games without restarting the program.
 
 Ensure you have Python 3 installed.
 
-Clone the repository:
-
-```bash
-git clone https://github.com/ShefChefPastry/Guessing_game.git
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/ShefChefPastry/Guessing_game.git](https://github.com/ShefChefPastry/Guessing_game.git)
